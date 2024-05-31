@@ -1,6 +1,6 @@
-# RSS Reader
+# JavaRSSReader
 
-RSS Reader is a Java-based command-line application that allows users to read and manage RSS feed URLs conveniently.
+JavaRSSReader is a Java-based command-line application that allows users to read and manage RSS feed URLs conveniently.
 
 ## Features
 
