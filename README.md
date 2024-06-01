@@ -49,12 +49,15 @@ or add it using a build tool like Maven or Gradle.
 
 ## Screenshots
 - Main Menu of the app
+
 ![Main Interface](screenshots/main_menu.png)
 
 - Show updates option
+
 ![Main Interface](screenshots/showing_current_feeds.png)
 
 - Fetching information from the desired RSS feed
+
 ![Main Interface](screenshots/showing_links.png)
 
 ## Assignment
