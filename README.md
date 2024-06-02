@@ -24,7 +24,7 @@ JavaRSSReader is a Java-based command-line application that allows users to read
 
     ```sh
     git clone https://github.com/ykazemim/JavaRSSReader.git
-    cd RSSReader/src
+    cd JavaRSSReader/src
     ```
 
 2. **Add Jsoup Library:**
